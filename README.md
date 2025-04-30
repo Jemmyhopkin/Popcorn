@@ -29,14 +29,12 @@
 
 ### Windows:
 Download and install:
-  * **Latest release**: check [popcorn-time.site](https://popcorn-time.site) or the repo's [releases page](https://github.com/popcorn-official/popcorn-desktop/releases)
-  * Or **latest dev build (for testers)**: check the repo's [actions page](https://github.com/popcorn-official/popcorn-desktop/actions)
+  * **Latest release**: check  the repo's [releases page](https://github.com/Jemmyhopkin/Popcorn/releases)
 
 
 ### macOS:
 Download and install:
-  * **Latest release**: check [popcorn-time.site](https://popcorn-time.site) or the repo's [releases page](https://github.com/popcorn-official/popcorn-desktop/releases)
-  * Or **latest dev build (for testers)**: check the repo's [actions page](https://github.com/popcorn-official/popcorn-desktop/actions)
+**Latest release**: check  the repo's [releases page](https://github.com/Jemmyhopkin/Popcorn/releases)
 
 Easily install Popcorn Time via _[Homebrew](https://brew.sh) ([Cask](https://docs.brew.sh/Cask-Cookbook)):_
   ~~~ rb
@@ -61,11 +59,6 @@ If you have Apple Silicon (M-series chips), you need to use the `arm64` release.
 xattr -c "/Applications/Popcorn-Time.app/"
 ```
 
-
-### Linux - Debian/Ubuntu based distros:
-Download and install:
-  * **Latest release**: check [popcorn-time.site](https://popcorn-time.site) or the repo's [releases page](https://github.com/popcorn-official/popcorn-desktop/releases)
-  * Or **latest dev build (for testers)**: check the repo's [actions page](https://github.com/popcorn-official/popcorn-desktop/actions)
 
 Via .deb package:
 
@@ -102,8 +95,7 @@ Via archive and command line (tested on ubuntu 18.04 and 20.04):
 
 If you're comfortable getting up and running from a `git clone`, this method is for you.
 
-The [development](https://github.com/popcorn-official/popcorn-desktop/tree/development) branch contains the latest changes.  
-The [master](https://github.com/popcorn-official/popcorn-desktop/tree/master) branch contains the latest release.
+The [development](https://github.com/Jemmyhopkin/Popcorn)) branch contains the latest changes.  
 
 #### Quickstart:
 
@@ -138,12 +130,6 @@ Check out our in-depth guide to [Contributing to Popcorn Time](docs/Contributing
 You can also join our [community](README.md#community) to keep up-to-date and meet other developers.  
 
 
-<a name="community"></a>
-## Community
-Keep track of Popcorn Time development and community activity.
-  * Read and contribute to the official [Popcorn Time Wiki](https://github.com/popcorn-official/popcorn-desktop/wiki/).
-  * Join in discussions on [r/PopCornTimeApp](https://www.reddit.com/r/PopcornTimeApp).
-
 
 ## Screenshots
 ![Popcorn Time](https://cloud.githubusercontent.com/assets/8317250/10714437/b1e1dc8c-7b32-11e5-9c25-d9fbd5b2f3bd.png)
@@ -176,4 +162,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 ***
 
-Copyright © 2025 Popcorn Time Project - Released under the [GPL v3 license](LICENSE.txt).
+Copyright © 2025 Popcorn Time Project - Released under the [MIT license](LICENSE.txt).
