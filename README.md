@@ -162,4 +162,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 ***
 
-Copyright © 2025 Popcorn Time Project - Released under the [MIT license].
+Copyright © 2025 Popcorn Time Project Owned by Ghost - Released under the [MIT license].
