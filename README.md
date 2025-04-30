@@ -21,7 +21,7 @@
   <a href="https://github.com/popcorn-official/popcorn-desktop/wiki/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&label=wiki&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fgithub.com%2Fpopcorn-official%2Fpopcorn-desktop%2Fwiki%2F"></a>
   <a href="https://github.com/popcorn-official/popcorn-desktop/wiki/FAQ"><img src="https://img.shields.io/website?down_color=red&down_message=offline&label=faq&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fgithub.com%2Fpopcorn-official%2Fpopcorn-desktop%2Fwiki%2FFAQ"></a>
 
-<h4 align="center">Visit the project's website at <a href="https://popcorn-time.site">popcorn-time.site</a></h4>
+<h4 align="center">
 
 ***
 
@@ -162,4 +162,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 ***
 
-Copyright © 2025 Popcorn Time Project - Released under the [MIT license](LICENSE.txt).
+Copyright © 2025 Popcorn Time Project - Released under the [MIT license].
